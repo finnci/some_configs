@@ -1,0 +1,5 @@
+# cat ~/.ssh/config
+Host *-????
+User cfinn
+Hostname %h.metricfire.com
+ServerAliveInterval 240
