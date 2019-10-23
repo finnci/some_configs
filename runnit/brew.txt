@@ -1,0 +1,8 @@
+bash-completion
+git
+htop-osx
+imagemagick
+pyenv
+wget
+git-extras
+git-quick-stats
