@@ -1,0 +1,6 @@
+pyenv install <version-of-python>
+
+pip install virtualenv
+mkdir -p ~/.venvs/<new-project>
+virtualenv --python=$HOME/.pyenv/versions/<version-of-python>/bin/python ~/.venvs/<new-project>
+
